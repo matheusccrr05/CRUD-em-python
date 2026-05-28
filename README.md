@@ -1,1 +1,2 @@
-# CRUD-python
+# CRUD
+#ultilizando python e mysql
